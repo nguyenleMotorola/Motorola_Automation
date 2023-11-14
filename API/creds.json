@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "watchguard-data-automation",
+  "private_key_id": "64cfba17d19c7b581d8531c761fda26f92f95922",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKW8sRpeSUEtE3\nKMJyXhpgqsU+yufxcQv86W4u290ICqe2yVnuTsBPHDAh3AWMzPAhZuW592KUuHxV\njb+0C61vOoJfQZCD1aZ6VFESuEHkYGNCErhFoxzbxOfORtyAxjSbs+I4oee2LY7P\nbJ7JUkkjCBqtLz1t4t2+OCrNEwLsN2Y/ecAmt69j+Z68BYMg9pqoB096aGJMf5YM\nde5jx+bE0m4Xg+Qhxu8CqZThL5nAA2l+o646KcaISrbLzCZgZa9UBMJYB5dFJyly\nITdbRdyQffrt5Ob6i27MpwKf2l/Pv/uW1tTli1l0PiZGHWqJYAz5Ea+9zitpzKVb\nyhUE8K1zAgMBAAECggEABODpqGdDd35spNPKvE8ge6wiTT0/EkcTbumByodqcMMw\n/+siy+gCIuYfEvHnAFoAgA2nBDC+o68+8CEWuhR9/ex/MCS4gzUnalOWEMl4bTUV\nr4YcAzHHhFTe8c4rir88jXRsw8jDeVTn2IBZ46ikMsADRKGa7YdGqUtZXNBUhbVV\nNAyK4aBZo2oMwVucTuFYvIwboTiAe/d5RdizR+43Mb0z1srBuNBkfl4mHSd0YiGV\nTlvsqXDeTXMdW9A35++EBho1bXZqiQLDCEH3qwwPnVeFK1hqEMcbZ+X/4SYCXGDW\naL7u38giVvR/tI0QTpUbMcUF9oGxua6mX5jzBSWoAQKBgQD1qAJfcmsqeWvmv+k5\nHL2pufBPsKtwLoK8/fi1v+TfrlLU9rtf2oJuCFgQ2lK3M10G390LpKITzBcambfE\ndnikhr/rQ18Qkqu71anQutrk5tiW1eifMOa3PYIuSqyQKucfoySFy+/+HSmZJQzf\nUyHPWuNvAPq9ZXSQYlGcszYXAQKBgQDS4REmq/+DqH9u2GfY1+IoXCFXEQIEMCQu\nZF3uAZ54g1Ct3kGg3UjUIrh8XM5grBaZEfBFrzTIZSBcNRCKEjOxGgf+qwsJtN1I\n1AqIKdv0MeMzq3734Mj7H3FXYyGTobyKCN3LGHip6HFyYwveOecbc17nYDP1kjeq\n+Ei8B7xYcwKBgQCiN8DhYIAt+yJqrP4Ijdcc1kE/jm2XVc9Vl+x9sGsl3kqqgQe4\nw2Vv3aix8EnA2nUqzfd88clpg1MaaLm2TXlbQ/RGGiYTnpczIWPTByD3GQ2bhUPo\no3UnOcHWac9MIFihRq0egU5Iot9OVu4KJy5jbCRVr/Lj0LRJh/NWo+0rAQKBgExb\nNkycZs6TSmEmdqOrt7YJdgECpYpCrDcoHGK7r1fPpHzwRy8qMN6vG8HcENYsOZp/\nRlLVF/WfuFHq3OxBnvn3hQGPiVWgaaefL5kSHxSSo8PnyveSKvPS9MVBnbzJCW2p\nvDV3zOkowzs55eg3axkjcy+wQ+Ada466jAuZeXdFAoGAbNx/r7/VbEzJ/AlQIb9C\ncae2n+AgXHBFBnWXFqCjyPtatcf5PST2rwsGL4QUXxpGOaQMjLhHEdezSosoiBfE\nC2At7b0QiF/7GNl/mhUVI43KCE84Zg96G41hH2xvSTtQ2qBZISQkv4nY7uFyaU/Z\n+EKt3hJ4I8YugRMtnBaKOwc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nguyenle@watchguard-data-automation.iam.gserviceaccount.com",
+  "client_id": "116656229971083637412",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nguyenle%40watchguard-data-automation.iam.gserviceaccount.com"
+}

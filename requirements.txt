@@ -1,0 +1,16 @@
+openpyxl
+pandas
+streamlit
+pillow
+streamlit-aggrid
+plotly
+xlsxwriter
+selenium
+altair
+streamlit_metrics
+pyodbc
+httplib2
+google-api-python-client
+google-auth
+gspread
+cx_Oracle
