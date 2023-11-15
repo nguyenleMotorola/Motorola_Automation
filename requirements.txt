@@ -1,6 +1,6 @@
 openpyxl
 pandas
-streamlit
+streamlit >= 1.9.2
 pillow
 streamlit-aggrid
 plotly
